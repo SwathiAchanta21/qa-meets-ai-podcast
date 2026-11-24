@@ -1,0 +1,8 @@
+venv/
+.env
+__pycache__/
+data/intermediate/
+data/output_mp4/
+*.wav
+*.mp3
+*.mp4
